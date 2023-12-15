@@ -1,0 +1,11 @@
+Quantity,Reference,Value,PCB_Footprint,Part Number,Manufacturer,Description
+2.0,"C1,C5",47nf,C0603,0603B473K250CT,Walsin Technology Corporation,0.047 ï¿½F ï¿½10% 25V Ceramic Capacitor X7R 0603 (1608 Metric)
+4.0,"C2,C3,C4,C6",4.7nf,C0603,0603B472M500CT,Walsin Technology Corporation,4700 pF ï¿½20% 50V Ceramic Capacitor X7R 0603 (1608 Metric)
+1.0,C7,1uf,C0603,CL10A105KA8NNNC,Samsung Electro-Mechanics,1 ï¿½F ï¿½10% 25V Ceramic Capacitor X5R 0603 (1608 Metric)
+1.0,C8,0.1uf,C0603,0603B104K500XD,Aillen,0.1 ï¿½F ï¿½10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)
+1.0,J1,CON6,berg_1x6p_254mm_thr,77311-4AT-02LF,Amphenol ICC (FCI),"Connector Header Through Hole 2 position 0.100"" (2.54mm)"
+1.0,J2,CON3,berg_1x3p_254mm_thr,77311-4AT-02LF,Amphenol ICC (FCI),"Connector Header Through Hole 2 position 0.100"" (2.54mm)"
+4.0,"R1,R2,R5,R6",499,R0603,CR0603-FX-4990ELF,Bourns Inc.,"499 Ohms ï¿½1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+2.0,"R3,R8",4.7k,R0603,RK73B1JTTD472G,"KOA Speer Electronics, Inc.",RES 4.7K OHM 2% 1/10W 0603
+1.0,R9,10k,R0603,NRC06F1002TRF,NIC Components Corp,"10 kOhms ï¿½1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+1.0,U1,TLA2024IRUGR,RUG10_TEX,TLA2024IRUGR,Texas Instruments,12 Bit Analog to Digital Converter 4 Input 1 Sigma-Delta 10-X2QFN (2x1.5)

@@ -1,0 +1,11 @@
+Value,Part Number,Manufacturer,Description,PCB_Footprint
+47nf,0603B473K250CT,Walsin Technology Corporation,0.047 �F �10% 25V Ceramic Capacitor X7R 0603 (1608 Metric),C0603
+4.7nf,0603B472M500CT,Walsin Technology Corporation,4700 pF �20% 50V Ceramic Capacitor X7R 0603 (1608 Metric),C0603
+1uf,CL10A105KA8NNNC,Samsung Electro-Mechanics,1 �F �10% 25V Ceramic Capacitor X5R 0603 (1608 Metric),C0603
+0.1uf,0603B104K500XD,Aillen,0.1 �F �10% 50V Ceramic Capacitor X7R 0603 (1608 Metric),C0603
+CON6,77311-4AT-02LF,Amphenol ICC (FCI),"Connector Header Through Hole 2 position 0.100"" (2.54mm)",berg_1x6p_254mm_thr
+CON3,77311-4AT-02LF,Amphenol ICC (FCI),"Connector Header Through Hole 2 position 0.100"" (2.54mm)",berg_1x3p_254mm_thr
+499,CR0603-FX-4990ELF,Bourns Inc.,"499 Ohms �1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film",R0603
+4.7k,RK73B1JTTD472G,"KOA Speer Electronics, Inc.",RES 4.7K OHM 2% 1/10W 0603,R0603
+10k,NRC06F1002TRF,NIC Components Corp,"10 kOhms �1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film",R0603
+TLA2024IRUGR,TLA2024IRUGR,Texas Instruments,12 Bit Analog to Digital Converter 4 Input 1 Sigma-Delta 10-X2QFN (2x1.5),RUG10_TEX
